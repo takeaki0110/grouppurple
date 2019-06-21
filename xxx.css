@@ -15,3 +15,6 @@ h1{
 	box-sizing: content-box;
 	background: url(neko.jpg) no-repeat;
 }
+.terra:hover{
+	opacity: 0.5;
+}
