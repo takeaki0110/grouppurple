@@ -1,0 +1,17 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+h1 #medaka{
+	margin-top:100px;
+	margin-left: 180px;
+}
+h1{
+	font-size: 30vw;
+	padding-top: 0;
+	margin-top: 0;
+	display: flex;
+	justify-content: flex-start;
+	box-sizing: content-box;
+	background: url(neko.jpg) no-repeat;
+}
