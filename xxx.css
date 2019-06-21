@@ -16,12 +16,15 @@ h1{
 	box-sizing: content-box;
 	background: url(neko.jpg) no-repeat;
 }
+/* 寺澤CSS*/
 .terra{
 	width: 30%;
 	margin: auto;
 }
 .terra:hover{
 	opacity: 0.5;
+}
+/* 寺澤CSS ここまで*/
 
 
 #medaka{
